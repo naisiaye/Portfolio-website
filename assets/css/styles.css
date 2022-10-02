@@ -965,11 +965,11 @@ body.dark-theme {
   }
 
   .projects__container .swiper-button-prev {
-    left: 1rem;
+    left: -1rem;
   }
 
   .projects__container .swiper-button-next {
-    right: 1rem;
+    right: -1rem;
   }
 }
 
@@ -1153,7 +1153,7 @@ body.dark-theme {
     font-size: 1.5rem;
   }
   .home__info {
-    grid-template-rows: repeat(3, 130px);
+    grid-template-rows: repeat(3, 150px);
     row-gap: 4rem;
     margin-top: 16rem;
   }
