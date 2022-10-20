@@ -608,6 +608,7 @@ body.dark-theme {
 
 .projects__img {
   width: 250px;
+  height: 250px;
   border-radius: 0.75rem;
   margin-bottom: 1.25rem;
 }
@@ -1128,7 +1129,7 @@ body.dark-theme {
     border-radius: 10.6rem;
   }
   .home__profile img {
-    width: 300px;
+    width: 200px;
   }
 
   .home__shape-wawes {
@@ -1155,7 +1156,7 @@ body.dark-theme {
   .home__info {
     grid-template-rows: repeat(3, 150px);
     row-gap: 4rem;
-    margin-top: 16rem;
+    margin-top: 8rem;
   }
 
   .skills__container {
